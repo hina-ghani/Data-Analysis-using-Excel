@@ -33,7 +33,7 @@ The dataset comprises responses from 10,000 individuals across different demogra
 
 ### Data Cleaning and Transformation:
 
-Before analysis, data cleaning was performed to ensure accuracy. This involved handling missing values and inconsistencies, removing duplicates and replacing the city codes with city names.
+Before analysis, data cleaning was performed to ensure accuracy. This involved removing duplicates, handling missing values and inconsistencies.
 
 
 
