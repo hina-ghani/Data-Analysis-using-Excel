@@ -6,6 +6,8 @@ This case study is about a German beverage company by the name CodeX which has r
 few months ago, they launched their energy drink in 10 cities in India. Their Marketing team is responsible for increasing brand awareness, market share, and product
 development. They conducted a survey in those 10 cities and received results from 10k respondents. A marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions. 
 
+![copy](https://github.com/hina-ghani/Data-Analysis-using-Excel/assets/168838939/fe028574-b6dc-4ad3-845f-cc52d49cb88a)
+
 
 ### Dataset Overview:
 
@@ -25,11 +27,16 @@ The dataset comprises responses from 10,000 individuals across different demogra
 
 ### Tools used:
 
-▪ Used MS Excel to conduct in-depth data analysis.
+● Used MS Excel to conduct in-depth data analysis.
 
-▪ Developed an interactive dashboard and report to uncover insights and trends.
+● Used Power Bi to create interactive dashboards. 
 
-▪ Used Pivot tables for data analysis.
+● Used Power Bi for Data Visualization.
+
+● Created a report to uncover insights and trends.
+
+● Used Pivot tables for data analysis.
+
 
 ### Data Cleaning and Transformation:
 
