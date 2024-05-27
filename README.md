@@ -42,7 +42,7 @@ The dataset comprises responses from 10,000 individuals across different demogra
 
 Before analysis, data cleaning was performed to ensure accuracy. This involved removing duplicates, handling missing values and inconsistencies.
 
-### To learn more about the step wise solution of this case study and the insights provided from it, click the link below to read my article.
+<strong>To learn more about the step wise solution of this case study and the insights provided from it, click the link below to read my article.
 
 https://medium.com/@hinaaaghani/market-analysis-using-excel-codex-energy-drink-dc7d4ca94569#42eb
 
